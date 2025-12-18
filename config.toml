@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://daradege.ir/kita-farsi"
+base_url = "https://nulltux.ir/kita-farsi"
 
 # The site title and description; used in feeds by default.
 title = "کیتا فارسی"
@@ -85,7 +85,7 @@ avatar_invert = true
 # The `name` should be the file name of static/icons/*.svg or the icon name of https://simpleicons.org/
 [[extra.profile.social]]
 name = "github"
-url = "https://github.com/daradege/kita-farsi"
+url = "https://github.com/nulltux/kita-farsi"
 
 [[extra.profile.social]]
 name = "matrix"
