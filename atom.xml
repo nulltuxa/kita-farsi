@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fa">
     <title>کیتا فارسی</title>
     <subtitle>کیتا فارسی یک قالب زیبا و تمیز برای زولا است.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://daradege.ir/kita-farsi/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi"/>
+    <link rel="self" type="application/atom+xml" href="https://nulltux.ir/kita-farsi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>1404-01-09T00:00:00+00:00</updated>
-    <id>https://daradege.ir/kita-farsi/atom.xml</id>
+    <id>https://nulltux.ir/kita-farsi/atom.xml</id>
     <entry xml:lang="fa">
         <title>راهنمای نحو مارک‌داون</title>
         <published>1404-01-09T00:00:00+00:00</published>
@@ -20,8 +20,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi/markdown-syntax/"/>
-        <id>https://daradege.ir/kita-farsi/markdown-syntax/</id>
+        <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi/markdown-syntax/"/>
+        <id>https://nulltux.ir/kita-farsi/markdown-syntax/</id>
         
         <summary type="html">&lt;p&gt;این مقاله نمونه‌ای از نحو پایه مارک‌داون را ارائه می‌دهد که می‌تواند در فایل‌های محتوای Zola استفاده شود، همچنین نشان می‌دهد که آیا عناصر پایه HTML با CSS در تم Kita تزئین شده‌اند.&lt;&#x2F;p&gt;</summary>
         
@@ -39,8 +39,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi/math-typesetting/"/>
-        <id>https://daradege.ir/kita-farsi/math-typesetting/</id>
+        <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi/math-typesetting/"/>
+        <id>https://nulltux.ir/kita-farsi/math-typesetting/</id>
         
         <summary type="html">&lt;p&gt;قالب کیتا از فرمول‌های ریاضی $\LaTeX$ با استفاده از &lt;a href=&quot;https:&#x2F;&#x2F;katex.org&#x2F;&quot;&gt;KaTeX&lt;&#x2F;a&gt; پشتیبانی می‌کند.&lt;&#x2F;p&gt;</summary>
         
@@ -58,8 +58,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi/placeholder-1/"/>
-        <id>https://daradege.ir/kita-farsi/placeholder-1/</id>
+        <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi/placeholder-1/"/>
+        <id>https://nulltux.ir/kita-farsi/placeholder-1/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -79,8 +79,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi/placeholder-2/"/>
-        <id>https://daradege.ir/kita-farsi/placeholder-2/</id>
+        <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi/placeholder-2/"/>
+        <id>https://nulltux.ir/kita-farsi/placeholder-2/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -100,8 +100,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi/placeholder-3/"/>
-        <id>https://daradege.ir/kita-farsi/placeholder-3/</id>
+        <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi/placeholder-3/"/>
+        <id>https://nulltux.ir/kita-farsi/placeholder-3/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -121,8 +121,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi/placeholder-4/"/>
-        <id>https://daradege.ir/kita-farsi/placeholder-4/</id>
+        <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi/placeholder-4/"/>
+        <id>https://nulltux.ir/kita-farsi/placeholder-4/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -142,8 +142,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi/placeholder-5/"/>
-        <id>https://daradege.ir/kita-farsi/placeholder-5/</id>
+        <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi/placeholder-5/"/>
+        <id>https://nulltux.ir/kita-farsi/placeholder-5/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -163,10 +163,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/kita-farsi/theme-config/"/>
-        <id>https://daradege.ir/kita-farsi/theme-config/</id>
+        <link rel="alternate" type="text/html" href="https://nulltux.ir/kita-farsi/theme-config/"/>
+        <id>https://nulltux.ir/kita-farsi/theme-config/</id>
         
-        <content type="html" xml:base="https://daradege.ir/kita-farsi/theme-config/">&lt;p&gt;You can customize Kita theme by editing &lt;code&gt;config.toml&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://nulltux.ir/kita-farsi/theme-config/">&lt;p&gt;You can customize Kita theme by editing &lt;code&gt;config.toml&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;Here are all the kita theme options:&lt;&#x2F;p&gt;
 &lt;pre data-lang=&quot;toml&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-toml &quot;&gt;&lt;code class=&quot;language-toml&quot; data-lang=&quot;toml&quot;&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# The Kita theme style config.
 &lt;&#x2F;span&gt;&lt;span&gt;[extra]
